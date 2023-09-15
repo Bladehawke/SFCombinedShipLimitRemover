@@ -1,7 +1,7 @@
-# 📑 SFSE Plugin Template
+# 📑SFCombinedShipLimitRemover
 Native dll plugin for [starfield script extender](https://github.com/ianpatt/sfse).
 
-[Create a new plugin project from this template](https://github.com/new?template_name=SF_PluginTemplate&template_owner=gottyduke) and wait for the first workflow action to finish, it will setup project automatically.
+
 
 ## ⚙ Requirements
 
@@ -38,10 +38,6 @@ These two dependencies can be setup either via git submodule (by executing `upda
 cmake --build build
 ```
 
-### 📦 Deployment
-
-This plugin template has auto deployment rules for easier build-and-test, build-and-package features, using simple json rules. [Read more here!](https://github.com/gottyduke/SF_PluginTemplate/wiki/Custom-deployment-rules)
-
 ### ➕ DKUtil addon
 
 This project bundles [DKUtil](https://github.com/gottyduke/DKUtil).
@@ -54,3 +50,4 @@ This project bundles [DKUtil](https://github.com/gottyduke/DKUtil).
 
 - [ianpatt's starfield script extender](https://github.com/ianpatt/sfse).
 - [CommonLibSF, a collaborative effort project](https://github.com/Starfield-Reverse-Engineering/CommonLibSF)
+- [SFSE Plugin Template](https://github.com/new?template_name=SF_PluginTemplate&template_owner=gottyduke)
